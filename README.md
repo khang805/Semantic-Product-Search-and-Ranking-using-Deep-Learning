@@ -6,11 +6,13 @@ A deep learning-based search engine that moves beyond traditional keyword matchi
 
 ## 🚀 Key Features
 
+```
 * **Semantic Understanding:** Captures the underlying meaning of natural language queries to match products even when keywords don't overlap exactly.
 * **Interactive Question-Answering (QA):** Built-in capability to answer specific technical or product-related questions directly from the product catalogs and descriptions.
 * **Feature Fusion:** Combines `product_title` and `product_description` into a unified high-fidelity text representation for training and inference.
 * **Cross-Encoder Re-ranking:** Implements a BERT-based Cross-Encoder to provide high-precision relevance scores for query-product pairs.
 * **Real-time Web Interface:** Deployed via Gradio, allowing users to enter queries and view ranked results instantly.
+```
 
 ---
 
